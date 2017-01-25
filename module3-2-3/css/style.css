@@ -13,3 +13,10 @@ section {
     color: #FFF3BC;
     font-size: x-small;
 }
+
+.brand {
+    background-color: #082833;
+    color: #C24726;
+    font-weight: bold;
+    font-size: x-large;
+}
